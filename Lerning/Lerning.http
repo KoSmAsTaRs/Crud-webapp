@@ -1,0 +1,6 @@
+@Lerning_HostAddress = http://localhost:7224
+
+GET {{Lerning_HostAddress}}/User/1
+Accept: application/json
+
+###
